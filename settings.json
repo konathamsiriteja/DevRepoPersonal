@@ -1,0 +1,14 @@
+{
+  "eliteacode.providerServerURL": "https://next.elitea.ai",
+  "eliteacode.LLMServerUrl": "https://next.elitea.ai",
+  "eliteacode.modelName": "gpt-5.4-mini",
+  "eliteacode.LLMModelName": "gpt-5.4-mini",
+  "eliteacode.authToken": "...iepoNdw",
+  "eliteacode.LLMAuthToken": "...iepoNdw",
+  "eliteacode.projectId": 17384,
+  "eliteacode.integrationUid": "1_gpt-5.4-mini",
+  "eliteacode.defaultViewMode": "split",
+  "eliteacode.verifySsl": false,
+  "eliteacode.displayType": "split",
+  "eliteacode.debug": false
+}
